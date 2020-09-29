@@ -22,9 +22,6 @@
 
 [![Spotify](https://jcalaunan.vercel.app/api/spotify)](https://open.spotify.com/user/1244277647)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
@@ -41,7 +38,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcalaunan&layout=compact" alt="jcalaunan" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcalaunan&show_icons=true" alt="jcalaunan" /></p>
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
