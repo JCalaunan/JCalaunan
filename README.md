@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/14118984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14118984" height="30" width="40" /></a>
 <a href="https://kaggle.com/jcalaunan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jcalaunan" height="30" width="40" /></a>
 <a href="https://medium.com/@jcalaunan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jcalaunan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jcalaunan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jcalaunan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jcalaunan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jcalaunan" height="30" width="40" /></a><a href="https://www.hackerrank.com/jcalaunan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@jcalaunan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
