@@ -42,3 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcalaunan&layout=compact" alt="jcalaunan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcalaunan&show_icons=true" alt="jcalaunan" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
