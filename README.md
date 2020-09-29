@@ -13,14 +13,13 @@
 
 - 💬 Ask me about **food, I love to eat**
 
-- ⚡ Fun fact **John isn't my real name**
+- ⚡ Fun fact **John isn't my real name, just sounds like it**
 
 - 🥅 2020 Goals: Contribute more to Open Source projects, commit more Data science projects, start as a data analyst to eventually be a data engineer
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.jcalaunan.vercel.app/api/spotify-playing" alt="John's Vibing to" width="350" />](https://open.spotify.com/user/1244277647)
-
-[![Spotify](https://jcalaunan.vercel.app/api/spotify)](https://open.spotify.com/user/1244277647)
+[<img src="https://novatorem.jcalaunan.vercel.app/api/spotify" alt="Vibing to" width="350" />](https://open.spotify.com/user/1244277647)
+<!-- [![Spotify Now Playing](https://novatorem.jcalaunan.vercel.app/api/spotify)](https://open.spotify.com/user/1244277647) -->
 
 
 <p align="left"> 
