@@ -4,11 +4,13 @@
 
 - 🔭 I’m currently working on [A/B Results](TBA)
 
-- 🌱 I’m currently learning **Data science, Azure cloud fundamentals**
+- 📖 I’m currently learning **Data Analytics, Azure Cloud Fundamentals**
+
+- 💡 I'm currently improving **PowerBI dashboard creation, DAX, Tableau**
 
 - 👯 I’m looking to collaborate on [TBC](TBC)
 
-- 🤝 I’m looking for help with [any](TBC)
+- 🤝 I’m looking for help with [everything](TBC)
 
 - 💬 Ask me about **food, I love to eat**
 
