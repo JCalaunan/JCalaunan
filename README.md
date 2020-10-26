@@ -44,22 +44,22 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 82 Contributions in the Year 2020
  > 
-> 📦 62.1 kB Used in Github's Storage 
+> 📦 62.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories
  > 
-> 🔑 1 Private Repository 
- > 
+> 🔑 2 Private Repositories 
+
 **I'm a Night 🦉** 
 
 ```text
@@ -89,23 +89,22 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    26 mins             █████████████████░░░░░░░░   68.52% 
-Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.59% 
-Git                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.88%
+Other                    32 mins             █████████████████████░░░░   86.72% 
+Git                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28%
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+VS Code                  37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.0%
+Windows                  37 mins             █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Jupyter Notebook         2 repos             ████████████░░░░░░░░░░░░░   50.0%
+Jupyter Notebook         3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
 
 ```
 
