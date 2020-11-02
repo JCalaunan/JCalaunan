@@ -46,11 +46,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 82 Contributions in the Year 2020
+> 🏆 83 Contributions in the Year 2020
  > 
 > 📦 62.5 kB Used in Github's Storage 
  > 
@@ -89,14 +89,14 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    16 mins             ████████████████████░░░░░   82.1% 
-Git                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.9%
+Other                    17 mins             ███████████████████████░░   91.9% 
+Git                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+VS Code                  18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+Windows                  18 mins             █████████████████████████   100.0%
 
 ```
 
