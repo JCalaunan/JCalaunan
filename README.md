@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">I'm a passionate life learner, designer, electrical engineer and now a data analyst!</h3>
+<h3 align="center">I'm a passionate life learner!</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalaunan" alt="jcalaunan" /> </p> -->
 
 - 🔭 I’m currently working on [A/B Results](TBA)
