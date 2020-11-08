@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [A/B Results](TBA)
 
-- 📖 I’m currently learning **Data Analytics, Azure Cloud Fundamentals**
+- 📖 I’m currently learning **Azure Fundamentals**
 
-- 💡 I'm currently improving **PowerBI dashboard creation, DAX, Tableau**
+- 💡 I'm currently improving **Programming**
 
 - 👯 I’m looking to collaborate on [TBC](TBC)
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **John isn't my real name, just sounds like it**
 
-- 🥅 2020 Goals: Contribute more to Open Source projects, commit more Data science projects, start as a data analyst to eventually be a data engineer
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.jcalaunan.vercel.app/api/spotify" alt="Vibing to" width="350" />](https://open.spotify.com/user/1244277647)
