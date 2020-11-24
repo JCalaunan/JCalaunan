@@ -2,8 +2,16 @@
 <h3 align="center">I'm a passionate life learner!</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalaunan" alt="jcalaunan" /> </p> -->
 
-- 🔭 I’m currently working on [A/B Results](TBA)
+- 🔭 I’m currently working on [Data Wrangling Twitter files](https://github.com/JCalaunan/PRJ_Wrangle-Twitter)
 
+- :hammer: I've worked on:<br>
+       [Generic File renamer script](https://github.com/JCalaunan/PRJ_File_Renamer)<br>
+       [Statistical Analysis - A/B Hypothesis Testing](https://github.com/JCalaunan/PRJ_AB-Testing)<br>
+       [Data wrangling - Kaggle Job Posts](https://github.com/JCalaunan/PRJ_Wrangling-Job-Posts)<br>
+       [Adventureworks KPI Dashboard - link pending]()<br>
+       [EDA of Gapminder Global Electricity](https://github.com/JCalaunan/PRJ_Gapminder-Global-Electricity-data)<br>
+       [Kmeans ML for Gait Analysis via an IMU](https://github.com/JCalaunan/PRJ_UTS-Capstone-ML-IMU-Gait-Analysis)<br>
+       
 - 📖 I’m currently learning **Azure Fundamentals**
 
 - 💡 I'm currently improving **Programming**
