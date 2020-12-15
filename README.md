@@ -2,9 +2,10 @@
 <h3 align="center">I'm a passionate life learner!</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalaunan" alt="jcalaunan" /> </p> -->
 
-- 🔭 I’m currently working on [Data Wrangling Twitter files](https://github.com/JCalaunan/PRJ_Wrangle-Twitter)
+- 🔭 I’m currently working on [Data Visualization of Loan Dataset](https://github.com/JCalaunan/PRJ_Python-Data-Visual)
 
 - :hammer: I've worked on:<br>
+       [Data Wrangling Twitter files](https://github.com/JCalaunan/PRJ_Wrangle-Twitter)<br>
        [Generic File renamer script](https://github.com/JCalaunan/PRJ_File_Renamer)<br>
        [Statistical Analysis - A/B Hypothesis Testing](https://github.com/JCalaunan/PRJ_AB-Testing)<br>
        [Data wrangling - Kaggle Job Posts](https://github.com/JCalaunan/PRJ_Wrangling-Job-Posts)<br>
