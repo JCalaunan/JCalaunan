@@ -98,13 +98,13 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 3 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   5 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
