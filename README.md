@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 19 Contributions in the Year 2021
+> 🏆 22 Contributions in the Year 2021
  > 
-> 📦 140.7 kB Used in Github's Storage 
+> 📦 145.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -98,21 +98,21 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 7 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in HTML** 
 
 ```text
-Jupyter Notebook         5 repos             ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+HTML                     4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Jupyter Notebook         4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
