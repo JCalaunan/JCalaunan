@@ -59,7 +59,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 26 Contributions in the Year 2021
+> 🏆 22 Contributions in the Year 2021
  > 
 > 📦 148.2 kB Used in Github's Storage 
  > 
@@ -120,5 +120,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
