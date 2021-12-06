@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,13 +98,16 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    30 hrs 34 mins      █████████████████████████   100.0%
+Other                    4 hrs 9 mins        ███████████████████████░░   94.76% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 🔥 Editors: 
-Browser                  30 hrs 34 mins      █████████████████████████   100.0%
+Browser                  4 hrs 9 mins        ███████████████████████░░   94.76% 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
 💻 Operating System: 
-Windows                  30 hrs 34 mins      █████████████████████████   100.0%
+Windows                  4 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +123,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
