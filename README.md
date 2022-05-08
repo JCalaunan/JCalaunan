@@ -53,6 +53,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
@@ -98,13 +100,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    25 hrs 16 mins      █████████████████████████   100.0%
+Other                    16 hrs 36 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  25 hrs 16 mins      █████████████████████████   100.0%
+Browser                  16 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 hrs 16 mins      █████████████████████████   100.0%
+Windows                  16 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +122,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 01:46:46 UTC
+ Last Updated on 08/05/2022 02:01:53 UTC
 <!--END_SECTION:waka-->
