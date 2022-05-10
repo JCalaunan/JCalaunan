@@ -100,13 +100,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    5 hrs 53 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  5 hrs 53 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 53 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,5 +122,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2022 02:01:26 UTC
+ Last Updated on 10/05/2022 01:37:41 UTC
 <!--END_SECTION:waka-->
